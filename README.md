@@ -20,7 +20,7 @@ IT beginner. Pseudonym: Q. Currently focused on Linux and fundamental tooling.
 
 | Type | Languages |
 | :--- | :--- |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) *(learning)* |
+| **Programming** | ![С++](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) *(learning)* |
 | **Spoken** | Russian (Native), English (Technical / Reading) |
 
 ---
