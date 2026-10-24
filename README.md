@@ -1,23 +1,36 @@
-### Hi there, I'm Q 👋
+# Q [kju:]
+
+IT beginner. Pseudonym: Q. Currently focused on Linux and fundamental tooling.
+
+- Location: Vatican
+- Status: Learning in public
+- Focus: Linux, Git, CLI
+
+---
+
+## Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Operating System** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Editor / Shell** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
+
+## Languages
+
+| Type | Languages |
+| :--- | :--- |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) *(learning)* |
+| **Spoken** | Russian (Native), English (Technical / Reading) |
+
+---
+
+## GitHub Stats
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=IT+Beginner;Pseudonym%3A+Q+%5Bkju%3A%5D;QwQ" alt="Typing SVG" />
-</p>
-
-### Repent, you sinner!
-
-#### 🧰 Мой стек (пока только начинаю):
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
-#### 📊 Немного статистики (для мотивации):
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=b0o0q&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0o0q&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=b0o0q&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0o0q&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
 </p>
 
 ---
-*“Talk is cheap. Show me the code.”* — Linus Torvalds
+*Currently building the foundation. Code and commits will follow.*
