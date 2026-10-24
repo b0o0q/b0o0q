@@ -4,6 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&width=435&lines=IT+Beginner;Pseudonym%3A+Q+%5Bkju%3A%5D;QwQ" alt="Typing SVG" />
 </p>
 
+### Repent, you sinner!
+
 #### 🧰 Мой стек (пока только начинаю):
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
