@@ -22,8 +22,8 @@
 
 - 🇷🇺 **Russian:** Native
 - 🇬🇧 **English:** Technical / Reading
-- 🇫🇷 **French:** ![French Learning](https://img.shields.io/badge/French-Learning-00599C?style=flat-square&labelColor=00599C)
-- 🇮🇹 **Italian:** ![Italian Learning](https://img.shields.io/badge/Italian-Learning-00599C?style=flat-square&labelColor=00599C)
+- 🇫🇷 **French:** Learning
+- 🇮🇹 **Italian:** Learning
 
 ---
 
