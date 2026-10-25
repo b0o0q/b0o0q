@@ -28,8 +28,8 @@
 ### GitHub Activity & Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=b0o0q&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0o0q&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&langs_count=6" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=b0o0q&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=300" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0o0q&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&langs_count=6&cache_seconds=1800" height="150" alt="Top Languages" />
 </p>
 
 <p align="left">
