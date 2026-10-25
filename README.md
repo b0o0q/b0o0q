@@ -11,7 +11,7 @@
 
 | Category | Technologies |
 | :--- | :--- |
-| **OS** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![TempleOS](https://img.shields.io/badge/LostOS_✝-8B0000?style=flat-square) |
+| **OS** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![TempleOS](https://img.shields.io/badge/TempleOS_✝-8B0000?style=flat-square) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **Environment** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 | **Languages** | ![C++ Learning](https://img.shields.io/badge/C++-Learning-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=00599C) |
