@@ -22,6 +22,7 @@
 
 - 🇷🇺 **Russian:** Native
 - 🇬🇧 **English:** Technical / Reading
+- 🇷🇴 **Romanian:** Basic
 - 🇫🇷 **French:** Learning
 - 🇮🇹 **Italian:** Learning
 
