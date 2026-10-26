@@ -32,11 +32,11 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=b0o0q&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=30" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0o0q&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&langs_count=6&cache_seconds=300" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b0o0q&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&langs_count=6&count_private=true&cache_seconds=300" height="150" alt="Top Languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b0o0q&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&alarm=58A6FF" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=b0o0q&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&alarm=58A6FF&count_private=true" height="150" alt="GitHub Streak" />
 </p>
 
 ---
